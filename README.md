@@ -1,3 +1,3 @@
 # 4-images
 
-Github foler to host and use images
+Github folder to host and use images
